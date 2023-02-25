@@ -22,11 +22,14 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
 
-                <li class="nav-item">
+            <li class="nav-item">
                     <a class="nav-link" href="index.php" style="color: #fff;">Product</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="admin-panel.php" style="color: #fff;">Admin Panel</a>
+                    <a class="nav-link" href="manage-category.php" style="color: #fff;">manage category</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="manage-product.php" style="color: #fff;">manage product</a>
                 </li>
 
             </ul>
